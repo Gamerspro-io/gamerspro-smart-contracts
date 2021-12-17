@@ -1,0 +1,13 @@
+imports/
+deployments/
+artifacts/
+cache/
+coverage/
+node_modules/
+package.json
+src/
+documentation/
+src/solc_0.6
+src/solc_0.5
+tmp/
+secret/
